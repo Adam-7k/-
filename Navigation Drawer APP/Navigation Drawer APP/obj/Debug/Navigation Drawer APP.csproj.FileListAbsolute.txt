@@ -1,0 +1,30 @@
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\bin\Debug\Navigation Drawer APP.exe.config
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\bin\Debug\Navigation Drawer APP.exe
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\bin\Debug\Navigation Drawer APP.pdb
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP.csprojAssemblyReference.cache
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\MainWindow.g.cs
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\App.g.cs
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP_MarkupCompile.cache
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP_MarkupCompile.lref
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\MainWindow.baml
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP.g.resources
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation_Drawer_APP.Properties.Resources.resources
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP.csproj.GenerateResource.cache
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP.csproj.CoreCompileInputs.cache
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP.exe
+E:\.NetorC++\.net\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP.pdb
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\bin\Debug\Navigation Drawer APP.exe.config
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\bin\Debug\Navigation Drawer APP.exe
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\bin\Debug\Navigation Drawer APP.pdb
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP.csprojAssemblyReference.cache
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\MainWindow.g.cs
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\App.g.cs
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP_MarkupCompile.cache
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP_MarkupCompile.lref
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\MainWindow.baml
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP.g.resources
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation_Drawer_APP.Properties.Resources.resources
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP.csproj.GenerateResource.cache
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP.csproj.CoreCompileInputs.cache
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP.exe
+E:\.NetorC++\.net\WPF\Navigation Drawer APP\Navigation Drawer APP\obj\Debug\Navigation Drawer APP.pdb
